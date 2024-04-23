@@ -3,13 +3,13 @@
 # SwiftChat 
 SwiftChat is a web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) that empowers seamless real-time communication through chat and video calls. It provides a user-friendly platform for connecting with friends, family, or colleagues, fostering collaboration and strengthening relationships.
 
-##Key Features:
+## Key Features:
 <li>Real-time Chat: Exchange messages instantly using Socket.io, keeping conversations flowing without page refreshes.</li>
-Video Calling: Initiate face-to-face interactions with individuals or groups using WebRTC, enhancing communication with visual cues.
-File Sharing: Share images, documents, or other files conveniently within the chat interface, streamlining information exchange.
-User Management: Create user profiles, add and manage contacts, and maintain your network efficiently.
-Google Login: Sign in effortlessly using your existing Google account, eliminating the need for separate registration.
-Beautiful UI: Material UI components deliver a visually appealing and intuitive user interface, ensuring a positive user experience.
+<li>Video Calling: Initiate face-to-face interactions with individuals or groups using WebRTC, enhancing communication with visual cues.</li>
+<li>File Sharing: Share images, documents, or other files conveniently within the chat interface, streamlining information exchange.</li>
+<li>User Management: Create user profiles, add and manage contacts, and maintain your network efficiently.</li>
+<li>Google Login: Sign in effortlessly using your existing Google account, eliminating the need for separate registration.</li>
+<li>Beautiful UI: Material UI components deliver a visually appealing and intuitive user interface, ensuring a positive user experience.</li>
 
 
 
