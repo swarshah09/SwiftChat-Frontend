@@ -1,4 +1,4 @@
-# SwaiftChat ![logo](https://github.com/swarshah09/SwiftChat-Frontend/assets/90791181/5a413952-4f67-46c7-a7c6-c61c46400d09)
+# SwaiftChat ![logo](https://github.com/swarshah09/SwiftChat-Frontend/assets/90791181/5a413952-4f67-46c7-a7c6-c61c46400d09 =250x250)
 SwiftChat is a web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) that empowers seamless real-time communication through chat and video calls. It provides a user-friendly platform for connecting with friends, family, or colleagues, fostering collaboration and strengthening relationships.
 
 
