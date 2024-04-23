@@ -19,7 +19,7 @@ SwiftChat is a web application built with the MERN stack (MongoDB, Express.js, R
 
 ## Tech Stack 👨‍💻
 ### Frontend
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 
