@@ -20,13 +20,75 @@ SwiftChat is a web application built with the MERN stack (MongoDB, Express.js, R
 ## Tech Stack 👨‍💻
 ### Frontend
 ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
+![Material Ui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+### Backend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### Database
+![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Google Authentication
+![Google Oauth](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+## Screenshots 📸
+### Login Page
+<img width="1680" alt="Screenshot 2024-04-23 at 6 04 01 PM" src="https://github.com/swarshah09/SwiftChat-Frontend/assets/90791181/277fd44e-9427-4bdb-b769-362e00e21d6e">
 
 
+## Run Locally 🏃‍♂️
+Clone the project
+
+### Frontend
+Create a folder named client
+
+Go to the project directory
+```bash
+  cd client 
+```
+
+GitClone
+```bash
+  git clone https://github.com/swarshah09/SwiftChat-Frontend.git
+```
+
+Install dependencies
+```bash
+  npm install
+```
+Start the server 
+
+```bash
+  npm start
+```
 
 
+### Backend
+Create a folder named server
 
+Go to the project directory
+```bash
+  cd server 
+```
 
+GitClone
+```bash
+  git clone https://github.com/swarshah09/SwiftChat-Backend.git
+```
 
+Install dependencies
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm start
+```
 
 
 ## Getting Started with Create React App
