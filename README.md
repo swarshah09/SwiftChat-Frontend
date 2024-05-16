@@ -38,8 +38,6 @@ SwiftChat is a web application built with the MERN stack (MongoDB, Express.js, R
 ### Login Page
 <img width="1680" alt="Screenshot 2024-04-23 at 6 04 01 PM" src="https://github.com/swarshah09/SwiftChat-Frontend/assets/90791181/277fd44e-9427-4bdb-b769-362e00e21d6e">
 
-https://github.com/swarshah09/SwiftChat-Frontend/assets/90791181/cd70e863-6d0c-4d7d-aa0a-aa1bb027fb60
-
 (https://github.com/swarshah09/SwiftChat-Frontend/assets/90791181/cd70e863-6d0c-4d7d-aa0a-aa1bb027fb60 "Now in Android: 55")    // Video Link
 
 
